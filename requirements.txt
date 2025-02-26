@@ -1,0 +1,12 @@
+gdown
+# --extra-index-url https://download.pytorch.org/whl/cu113
+# torch==1.10.2+cu113
+torch==2.5.1
+torchvision==0.20.1
+numpy<2
+cython
+opencv-python
+pillow
+pycocotools
+matplotlib
+gradio
